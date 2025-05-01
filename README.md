@@ -13,6 +13,9 @@ I'm a Master's student in Computer Science at Arizona State University, passiona
 - **Tools**: Docker, Git, Alteryx, Linux
 - **Cloud**: GCP, AWS
 
+## 📄 Resume
+[View My Resume](https://github.com/anjalikaushik20/anjalikaushik20/blob/master/Anjali_Kaushik_Resume.pdf)
+
 ## 📫 How to reach me
 - Email: akaush39@asu.edu  
 - LinkedIn: [Anjali Kaushik](https://www.linkedin.com/in/anjali-kaushik-87312a17b/)
