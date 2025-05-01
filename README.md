@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi there, I'm Anjali!
 
-<!--
-**anjalikaushik20/anjalikaushik20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Master's student in Computer Science at Arizona State University, passionate about **computer vision**, **reinforcement learning**, and **deep learning**. Previously, I worked in the energy industry applying machine learning to real-world problems, and now I'm focused on research in intelligent systems.
 
-Here are some ideas to get you started:
+## 🔬 Current Interests
+- Causal discovery with reinforcement learning  
+- Computer vision for scientific and medical applications
+- AI for robotics and automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- **Languages**: Python, C++, SQL  
+- **Frameworks**: PyTorch, OpenCV, Tensorflow
+- **Tools**: Docker, Git, Alteryx, Linux
+- **Cloud**: GCP, AWS
+
+## 📫 How to reach me
+- Email: akaush39@asu.edu  
+- LinkedIn: [https://www.linkedin.com/in/anjali-kaushik-87312a17b/](Anjali-Kaushik)
