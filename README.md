@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Anjali!
+# 👋 Hi there, I'm Anjali
 
 I'm a Master's student in Computer Science at Arizona State University, passionate about **computer vision**, **reinforcement learning**, and **deep learning**. Previously, I worked in the energy industry applying machine learning to real-world problems, and now I'm focused on research in intelligent systems.
 
@@ -15,4 +15,4 @@ I'm a Master's student in Computer Science at Arizona State University, passiona
 
 ## 📫 How to reach me
 - Email: akaush39@asu.edu  
-- LinkedIn: [https://www.linkedin.com/in/anjali-kaushik-87312a17b/](Anjali-Kaushik)
+- LinkedIn: [Anjali Kaushik](https://www.linkedin.com/in/anjali-kaushik-87312a17b/)
