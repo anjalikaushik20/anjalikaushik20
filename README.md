@@ -3,7 +3,7 @@
 I'm a Master's student in Computer Science at Arizona State University, passionate about **computer vision**, **reinforcement learning**, and **deep learning**. Previously, I worked in the energy industry applying machine learning to real-world problems, and now I'm focused on research in intelligent systems.
 
 ## 🔬 Current Interests
-- Causal discovery with reinforcement learning  
+- Applications of reinforcement learning
 - Computer vision for scientific and medical applications
 - AI for robotics and automation
 
@@ -18,4 +18,5 @@ I'm a Master's student in Computer Science at Arizona State University, passiona
 
 ## 📫 How to reach me
 - Email: akaush39@asu.edu  
-- LinkedIn: [Anjali Kaushik](https://www.linkedin.com/in/anjali-kaushik-87312a17b/)
+- LinkedIn: [Anjali Kaushik - LinkedIn](https://www.linkedin.com/in/anjali-kaushik-87312a17b/)
+- Check out my Portfolio: [Anjali Kaushik - Portfolio](https://anjalikaushik20.github.io/)
